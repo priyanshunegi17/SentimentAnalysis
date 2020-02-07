@@ -1,0 +1,68 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectDictionaryState">
+        <dictionary name="Priyanshu" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Buildout</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+      </component>
+      <component name="PyConsoleOptionsProvider">
+        <option name="myPythonConsoleState">
+          <console-settings is-module-sdk="true">
+            <option name="myUseModuleSdk" value="true" />
+          </console-settings>
+        </option>
+      </component>
+      <component name="RunDashboard">
+        <option name="ruleStates">
+          <list>
+            <RuleState>
+              <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+            </RuleState>
+            <RuleState>
+              <option name="name" value="StatusDashboardGroupingRule" />
+            </RuleState>
+          </list>
+        </option>
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+          <option name="INTERPRETER_OPTIONS" value="" />
+          <option name="PARENT_ENVS" value="true" />
+          <envs>
+            <env name="PYTHONUNBUFFERED" value="1" />
+          </envs>
+          <option name="SDK_HOME" value="C:\Users\Priyanshu\AppData\Local\Programs\Python\Python37-32\python.exe" />
+          <option name="WORKING_DIRECTORY" value="" />
+          <option name="IS_MODULE_SDK" value="false" />
+          <option name="ADD_CONTENT_ROOTS" value="true" />
+          <option name="ADD_SOURCE_ROOTS" value="true" />
+          <module name="" />
+          <option name="SCRIPT_NAME" value="" />
+          <option name="PARAMETERS" value="" />
+          <option name="SHOW_COMMAND_LINE" value="false" />
+          <option name="EMULATE_TERMINAL" value="false" />
+          <option name="MODULE_MODE" value="false" />
+          <option name="REDIRECT_INPUT" value="false" />
+          <option name="INPUT_FILE" value="" />
+          <method v="2" />
+        </configuration>
+      </component>
+    </defaultProject>
+  </component>
+</application>
